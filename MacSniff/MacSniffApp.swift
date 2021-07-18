@@ -63,7 +63,7 @@ class Sniffer {
 
     func snort() {
         print("snort")
-//        players.randomElement()?.play()
+        players.randomElement()?.play()
         schedule(snort)
     }
 }
