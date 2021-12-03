@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		5520F39526A3FD0200A9FE40 /* MacSniffApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5520F39426A3FD0200A9FE40 /* MacSniffApp.swift */; };
-		5520F39726A3FD0200A9FE40 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5520F39626A3FD0200A9FE40 /* ContentView.swift */; };
 		5520F39926A3FD0400A9FE40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5520F39826A3FD0400A9FE40 /* Assets.xcassets */; };
 		5520F39C26A3FD0400A9FE40 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5520F39B26A3FD0400A9FE40 /* Preview Assets.xcassets */; };
 		5520F3A526A404AE00A9FE40 /* sniff.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5520F3A426A4045900A9FE40 /* sniff.m4a */; };
@@ -19,7 +18,6 @@
 /* Begin PBXFileReference section */
 		5520F39126A3FD0200A9FE40 /* MacSniff.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacSniff.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5520F39426A3FD0200A9FE40 /* MacSniffApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacSniffApp.swift; sourceTree = "<group>"; };
-		5520F39626A3FD0200A9FE40 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5520F39826A3FD0400A9FE40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5520F39B26A3FD0400A9FE40 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5520F39D26A3FD0400A9FE40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -62,7 +60,6 @@
 				5520F3AB26A40A9C00A9FE40 /* schnoz.png */,
 				5520F3AA26A407D500A9FE40 /* Annoying Noises */,
 				5520F39426A3FD0200A9FE40 /* MacSniffApp.swift */,
-				5520F39626A3FD0200A9FE40 /* ContentView.swift */,
 				5520F39826A3FD0400A9FE40 /* Assets.xcassets */,
 				5520F39D26A3FD0400A9FE40 /* Info.plist */,
 				5520F39E26A3FD0400A9FE40 /* MacSniff.entitlements */,
@@ -160,7 +157,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5520F39726A3FD0200A9FE40 /* ContentView.swift in Sources */,
 				5520F39526A3FD0200A9FE40 /* MacSniffApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
